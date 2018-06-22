@@ -13,3 +13,6 @@ Adding changes from test branch
 
 
 Making some out of box changes
+
+Making changes from remote server
+
